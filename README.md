@@ -16,4 +16,4 @@
   
 - ### Contate-me
   
-  Linkedin <https://www.linkedin.com/in/daniel-marcos-ribeiro-471826137> | Email: (nielmarcos@outlook.com)
+  Linkedin [https://www.linkedin.com/in/daniel-marcos-ribeiro-471826137/] | Email: (nielmarcos@outlook.com)
