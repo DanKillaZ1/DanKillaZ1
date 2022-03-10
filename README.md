@@ -11,3 +11,9 @@
 - <a href='https://emojitool.com/pt/graduation-cap'>🎓</a> Atualmente estudo Full Stack Java pela EBAC (https://ebaconline.com.br/), e tambem estudando C# .DOTNET pelo site (https://balta.io/)
   
   - Sou aprendiz, iniciante mais com muita vontade e disposição para aprender.
+  
+  
+  
+- ### Contate-me
+  
+  #Linkedin (https://www.linkedin.com/in/daniel-marcos-ribeiro-471826137/) | Email: (nielmarcos@outlook.com)
