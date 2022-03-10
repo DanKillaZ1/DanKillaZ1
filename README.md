@@ -1,7 +1,6 @@
-### Hi there 👋
+### Olá meu nome é Daniel M. Ribeiro  👋
 
-<!--
-**DanKillaZ1/DanKillaZ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
