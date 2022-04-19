@@ -25,7 +25,10 @@
 Estudante de tecnologia, apaixonado pela area de programação, buscando aprender cada dia mais!!
 
 ## Meus estudos:
-Estou no curso Full stack Java pela EBAC, em paralelo estudando C# pela Balta.io
+Estou no curso Full stack Java pela EBAC
+PArticipo do Bootcamp da Alura patrocinado pela ORACLE
+Participei do Bootcamp da Localiza, onde a linguagem de estudo foi o DOTNET.
+
 
 E treinando o Inglês em casa!
 
